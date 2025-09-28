@@ -131,6 +131,6 @@ pytest tests/test_amazon.py --tracing on --html=report.html --headed
 
 **Hariharamanikandan** – Automation Enthusiast
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=flat-square)](https://github.com/hari16292)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=flat-square)](https://github.com/hari16292/playwright-python-demo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/hariharamanikandan)
 
