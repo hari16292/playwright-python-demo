@@ -120,13 +120,6 @@ pytest tests/test_amazon.py --tracing on --html=report.html --headed
 
 ---
 
-## 📚 References
-
-* [Playwright Python Documentation](https://playwright.dev/python/docs/intro)
-* [Python POM Design Pattern](https://www.selenium.dev/documentation/test_practices/encouraged/page_object_models/)
-
----
-
 ## 👤 Author
 
 **Hariharamanikandan** – Automation Enthusiast
